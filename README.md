@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![gambar](screenshot/sc01.png)
+![gambar](screenshot/01sc.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/sanris12/interactive-rating-component-main](https://github.com/sanris12/interactive-rating-component-main)
+- Live Site URL: [https://interactive-rating-component-main-taupe.vercel.app](https://interactive-rating-component-main-taupe.vercel.app)
 
 ## My process
 
